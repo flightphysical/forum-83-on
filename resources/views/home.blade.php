@@ -8,7 +8,7 @@
                 <div class="panel-heading">Dashboard</div>
 
                 <div class="panel-body">
-                    You be logged into Forum 83 Forward!
+                    You be logged into Forum 84 Forward!
                 </div>
             </div>
         </div>
